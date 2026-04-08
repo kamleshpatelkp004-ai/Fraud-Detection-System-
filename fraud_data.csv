@@ -1,0 +1,7 @@
+TransactionAmount,TransactionType,AccountAge,IsInternational,IsFraud
+2000,Online,24,1,0
+50000,Online,2,1,1
+1500,Offline,36,0,0
+70000,Online,1,1,1
+3000,Offline,12,0,0
+45000,Online,3,1,1
